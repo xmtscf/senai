@@ -1,0 +1,43 @@
+﻿@model LH_Pet.Models.Cliente
+
+<h1>Clientes</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Telefone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in ViewData["Clientes"] as List<Cliente>)
+        {
+            <tr>
+                <td>@cliente.Nome</td>
+                <td>@cliente.Email</td>
+                <td>@cliente.Telefone</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h1>Fornecedores</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Telefone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fornecedor in ViewData["Fornecedores"] as List<Fornecedor>)
+        {
+            <tr>
+                <td>@fornecedor.Nome</td>
+                <td>@fornecedor.Email</td>
+                <td>@fornecedor.Telefone</td>
+            </tr>
+        }
+    </tbody>
+</table>
