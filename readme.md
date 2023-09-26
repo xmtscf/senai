@@ -13,5 +13,7 @@ A aplicação possui as seguintes funcionalidades básicas:
 - População de objetos de exemplo no controlador (HomeController).
 - Utilização de uma página de índice (Index.cshtml) para exibir os dados.
 
+## Executar
+Baixe a branch localize a pasta LH-Pet abra e execute o comando: ```bash dotnet run
 ![Screenshot da Aplicação](localhost.jpeg)
 
