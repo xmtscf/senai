@@ -1,5 +1,7 @@
 # LH-Pet
 
+![Screenshot da Aplicação](localhost.jpeg)
+
 ## Descrição
 O projeto "LH-Pet" é uma aplicação web desenvolvida em ASP.NET Core com arquitetura MVC. O objetivo deste sistema é gerenciar informações sobre clientes e fornecedores para a clínica veterinária "LH-Pet".
 
@@ -17,6 +19,4 @@ A aplicação possui as seguintes funcionalidades básicas:
 Baixe a branch localize a pasta LH-Pet abra e execute o comando:
 ```bash
  dotnet run
-
-![Screenshot da Aplicação](localhost.jpeg)
 
