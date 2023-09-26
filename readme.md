@@ -15,6 +15,8 @@ A aplicação possui as seguintes funcionalidades básicas:
 
 ## Executar
 Baixe a branch localize a pasta LH-Pet abra e execute o comando:
-```bash dotnet run
+```bash
+ dotnet run
+
 ![Screenshot da Aplicação](localhost.jpeg)
 
