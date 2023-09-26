@@ -13,3 +13,5 @@ A aplicação possui as seguintes funcionalidades básicas:
 - População de objetos de exemplo no controlador (HomeController).
 - Utilização de uma página de índice (Index.cshtml) para exibir os dados.
 
+![Screenshot da Aplicação](localhost.jpeg)
+

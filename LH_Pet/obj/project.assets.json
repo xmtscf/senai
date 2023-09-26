@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pcp3\\LH_Pet\\LH_Pet.csproj",
+      "projectUniqueName": "C:\\Users\\pcp3\\Documents\\GitHub\\senai\\LH_Pet\\LH_Pet.csproj",
       "projectName": "LH_Pet",
-      "projectPath": "C:\\Users\\pcp3\\LH_Pet\\LH_Pet.csproj",
+      "projectPath": "C:\\Users\\pcp3\\Documents\\GitHub\\senai\\LH_Pet\\LH_Pet.csproj",
       "packagesPath": "C:\\Users\\pcp3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pcp3\\LH_Pet\\obj\\",
+      "outputPath": "C:\\Users\\pcp3\\Documents\\GitHub\\senai\\LH_Pet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pcp3\\AppData\\Roaming\\NuGet\\NuGet.Config"
